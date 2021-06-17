@@ -1,4 +1,5 @@
 # README-Generator
+Link to the walkthrough video demonstrating how a user would invoke the application from the command line: [video] https://drive.google.com/file/d/1i-aWm71SXjEGIntnU8nPnt_tYKntS4zW/view
 ## User Story
 
 ```md
